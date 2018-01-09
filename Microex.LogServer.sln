@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27205.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microex.LogServer.Api", "Microex.LogServer.Api\Microex.LogServer.Api.csproj", "{9E7202B0-7FE3-40EF-BAA1-C591F987A847}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microex.LogServer.Service", "Microex.LogServer.Service\Microex.LogServer.Service.csproj", "{3C08CA87-2CBD-4557-862B-0B27ABBE727C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microex.LogServer.Database", "Microex.LogServer.Database\Microex.LogServer.Database.csproj", "{56968CE0-7C46-4992-B23E-F51C4DD26D8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9E7202B0-7FE3-40EF-BAA1-C591F987A847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E7202B0-7FE3-40EF-BAA1-C591F987A847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E7202B0-7FE3-40EF-BAA1-C591F987A847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C08CA87-2CBD-4557-862B-0B27ABBE727C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C08CA87-2CBD-4557-862B-0B27ABBE727C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C08CA87-2CBD-4557-862B-0B27ABBE727C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C08CA87-2CBD-4557-862B-0B27ABBE727C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56968CE0-7C46-4992-B23E-F51C4DD26D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56968CE0-7C46-4992-B23E-F51C4DD26D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56968CE0-7C46-4992-B23E-F51C4DD26D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56968CE0-7C46-4992-B23E-F51C4DD26D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

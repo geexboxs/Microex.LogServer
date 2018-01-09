@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microex.Common" Version="1.2.1" />
+    <PackageReference Include="Microex.Common.Abstractions" Version="1.2.1" />
+    <PackageReference Include="Microex.Common.Mvc" Version="1.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.1" />
+    <PackageReference Include="Z.EntityFramework.Plus.EFCore" Version="1.7.14" />
+  </ItemGroup>
+
+</Project>
